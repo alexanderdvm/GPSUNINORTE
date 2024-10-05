@@ -1,6 +1,7 @@
 <?php
 header('Content-Type: application/json'); // Para que el cliente sepa que está recibiendo JSON
 
+
 // Configuración de la base de datos
 $servername = "alex.cpywocwqwde0.us-east-2.rds.amazonaws.com"; // Reemplaza con el endpoint de tu RDS si es necesario
 $username = "alex";       // Cambia al usuario de tu base de datos
